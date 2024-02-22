@@ -1,7 +1,7 @@
 apiVersion: openliberty.io/v1beta1
 kind: OpenLibertyApplication
 metadata:
-  name: openliberty-system-microservice-cp4a
+  name: openliberty-system-microservice-cp4a-argo
 spec:
   applicationImage: quay.io/rslangehennig0/openliberty-system-microservice-cp4a:main
   service:
