@@ -3,7 +3,7 @@ name: Create DevOps Deploy Component Version
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
