@@ -7,7 +7,7 @@ spec:
   applicationImage: quay.io/rslangehennig0/openliberty-system-microservice-cp4a:bfdac8f0
   expose: true
   manageTLS: true
-  replicas: 1
+  replicas: 2
   service:
     type: ClusterIP
     port: 9080
